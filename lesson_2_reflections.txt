@@ -1,0 +1,20 @@
+¿Qué sucede cuando se inicializa un repositorio? ¿Por qué necesita hacerlo?
+con git init se inicia el commit, se crea carpeta git y archivos ocultos 
+
+¿Qué diferencia hay entre el área de almacenamiento y el directorio de trabajo y el repositorio? ¿Qué valor cree que ofrece?
+staging area alamcena los nuevos archivos git add working directory muestra el git status and repository se inicia el git init
+
+¿Cómo puede utilizar el área de preparación para asegurarse de que tiene un compromiso por cambio lógico?
+el staging area realizando un git add  y git commit
+
+¿Cuáles son algunas situaciones en las que las sucursales serían útiles para mantener su historia organizada? ¿Cómo ayudarían las ramas?
+para crear branch, crear una version con cambios diferentes o actualizaciones
+
+¿Cómo los diagramas le ayudan a visualizar la estructura de la rama?
+para entender desde donde enpiezan las branch y q diferencias tienen conotras branch
+
+¿Cuál es el resultado de la fusión de dos ramas entre sí? ¿Por qué lo representamos en el diagrama de la manera que lo hacemos?
+los cambios realizados de una branch a otra se ficionan segun fecha q se crearon, para identificarlos
+
+¿Cuáles son los pros y los contras de la fusión automática Git vs siempre haciendo fusiona manualmente?
+un  Git’s automatic merging  facilita observar los cambios en el master y en el branch, mientras que el manual tienes qverificar 
